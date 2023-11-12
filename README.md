@@ -90,7 +90,7 @@ L'application Pinterest est une plateforme en ligne qui permet aux utilisateurs 
 
 
 
-## 3.	Exigences Non Fonctionnelles
+### 2.3.	Exigences Non Fonctionnelles
 •	Sécurité des données et authentification
 •	Performance
 •	Extensibilité
